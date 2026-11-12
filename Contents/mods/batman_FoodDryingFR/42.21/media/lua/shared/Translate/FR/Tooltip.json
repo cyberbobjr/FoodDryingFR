@@ -1,0 +1,7 @@
+{
+  "Tooltip_SaltLickShavings": "Raclures grossières et riches en minéraux, prélevées sur une pierre à lécher. Impropres à la consommation : dissolvez-les dans l'eau, faites bouillir, puis filtrez pour retirer les traces de métaux.",
+  "Tooltip_PotOfBrine": "Raclures de pierre à lécher dissoutes dans l'eau. À faire bouillir avant de filtrer la saumure pour obtenir du sel utilisable.",
+  "Tooltip_PotOfBrineCooked": "Saumure bouillie. Filtrez-la avec une étamine ou un filtre de masque respiratoire pour en extraire du sel utilisable.",
+  "Tooltip_FD_HarvestSaltLick_NoTool": "Nécessite un marteau, une masse, une grosse massue en pierre ou une pioche.",
+  "Tooltip_craft_dryFoodRackDesc": "Un simple séchoir en bois pour faire sécher à l'air les champignons, baies, fruits, légumes, viandes et poissons salés. Plus lent qu'un four, mais sans combustible."
+}

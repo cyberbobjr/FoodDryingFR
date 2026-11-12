@@ -1,0 +1,21 @@
+{
+  "Sandbox_FoodDryingOptions": "Séchage des aliments",
+  "Sandbox_FoodDryingOptions_SaltHarvestingEnabled": "Récolte du sel",
+  "Sandbox_FoodDryingOptions_SaltHarvestingEnabled_tooltip": "Activé par défaut. Désactivé, les pierres à lécher ne peuvent plus être raclées pour obtenir du sel de salaison.",
+  "Sandbox_FoodDryingOptions_OvenDryingEnabled": "Séchage au four",
+  "Sandbox_FoodDryingOptions_OvenDryingEnabled_tooltip": "Activé par défaut. Désactivé, les aliments ne peuvent plus sécher au four (recettes de plaque de cuisson et de brochette) : seul le séchoir fonctionne.",
+  "Sandbox_FoodDryingOptions_ShelfLifeMultiplier": "Multiplicateur de conservation des aliments séchés",
+  "Sandbox_FoodDryingOptions_ShelfLifeMultiplier_tooltip": "1 par défaut. Multiplie la durée pendant laquelle les aliments séchés ou salés de ce mod restent frais et comestibles. À 1 : viande séchée environ 3 à 8 mois, poisson séché 4 à 9 mois, fruits, baies et champignons séchés 6 à 12 mois, légumes séchés 5 à 10 mois. 2 double ces durées, 0,5 les divise par deux.",
+  "Sandbox_FoodDryingOptions_DryingRackDaysMushrooms": "Séchoir : jours pour les champignons",
+  "Sandbox_FoodDryingOptions_DryingRackDaysMushrooms_tooltip": "3 par défaut. Nombre de jours pour sécher des champignons sur le séchoir. Ne concerne que le séchoir, pas le four.",
+  "Sandbox_FoodDryingOptions_DryingRackDaysFruit": "Séchoir : jours pour les fruits",
+  "Sandbox_FoodDryingOptions_DryingRackDaysFruit_tooltip": "5 par défaut. Nombre de jours pour sécher des fruits sur le séchoir. Ne concerne que le séchoir, pas le four.",
+  "Sandbox_FoodDryingOptions_DryingRackDaysBerries": "Séchoir : jours pour les baies",
+  "Sandbox_FoodDryingOptions_DryingRackDaysBerries_tooltip": "7 par défaut. Nombre de jours pour sécher des baies sur le séchoir. Ne concerne que le séchoir, pas le four.",
+  "Sandbox_FoodDryingOptions_DryingRackDaysVegetables": "Séchoir : jours pour les légumes",
+  "Sandbox_FoodDryingOptions_DryingRackDaysVegetables_tooltip": "7 par défaut. Nombre de jours pour sécher des légumes sur le séchoir. Ne concerne que le séchoir, pas le four.",
+  "Sandbox_FoodDryingOptions_DryingRackDaysFish": "Séchoir : jours pour le poisson salé",
+  "Sandbox_FoodDryingOptions_DryingRackDaysFish_tooltip": "14 par défaut. Nombre de jours pour sécher du poisson salé sur le séchoir. Ne concerne que le séchoir, pas le four.",
+  "Sandbox_FoodDryingOptions_DryingRackDaysMeat": "Séchoir : jours pour la viande salée",
+  "Sandbox_FoodDryingOptions_DryingRackDaysMeat_tooltip": "21 par défaut. Nombre de jours pour sécher de la viande salée sur le séchoir. Ne concerne que le séchoir, pas le four."
+}

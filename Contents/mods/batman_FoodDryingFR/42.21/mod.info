@@ -1,0 +1,8 @@
+name=batman_Food Drying - Traduction française
+id=batman_FoodDryingFR
+description=Traduction française complète de Food Drying [B42] (Workshop 3747396551, par Corvus) et de son patch VFE : recettes, objets séchés et salés, séchoir, infobulles et options de bac à sable. Choisir la langue Français dans les options du jeu.
+require=\FoodDrying
+loadModAfter=FoodDrying,FoodDrying_VFEPatch
+versionMin=42.21
+modversion=1.0.0
+poster=poster.png
