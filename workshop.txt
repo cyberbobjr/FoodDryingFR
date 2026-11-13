@@ -1,32 +1,32 @@
 version=1
 id=3838670535
 title=Food Drying - French Translation (Traduction française)
-description=[h1]Food Drying - French Translation[/h1]
+description=[h1]Food Drying - Traduction française[/h1]
 description=
-description=[b]Build 42.21 · Singleplayer & Multiplayer[/b]
+description=[b]Build 42.21 · Solo et multijoueur[/b]
 description=
-description=Complete French translation of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3747396551]Food Drying [B42][/url] by Corvus and its VFE compatibility patch: recipes, dried and salted food, trays and skewers, salt and brine, drying rack, tooltips and sandbox options.
+description=Traduction française complète de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3747396551]Food Drying [B42][/url] de Corvus et de son patch de compatibilité VFE : recettes, aliments séchés et salés, plaques et brochettes, sel et saumure, séchoir, infobulles et options de bac à sable.
 description=
-description=[h2]How to use[/h2]
+description=[h2]Utilisation[/h2]
 description=[list]
-description=[*]Enable [b]Food Drying [B42][/b] and this mod.
-description=[*]Set the game language to [b]Français[/b] in the game options.
-description=[*]In multiplayer, each player sees the mod in their own language: install it on the server and the clients.
+description=[*]Activez [b]Food Drying [B42][/b] et ce mod.
+description=[*]Choisissez la langue [b]Français[/b] dans les options du jeu.
+description=[*]En multijoueur, chaque joueur voit le mod dans sa propre langue : installez-le sur le serveur et sur les clients.
 description=[/list]
 description=
-description=[h2]Notes[/h2]
+description=[h2]Remarques[/h2]
 description=[list]
-description=[*]Translation only: no gameplay change, safe to add or remove at any time.
-description=[*]Based on Food Drying 1.11. New texts added by later updates appear in English until this translation is updated.
+description=[*]Traduction uniquement : aucun changement de gameplay, ajout ou retrait possible à tout moment.
+description=[*]Basée sur Food Drying 1.11. Les nouveaux textes ajoutés par les mises à jour suivantes s'affichent en anglais jusqu'à la mise à jour de cette traduction.
 description=[/list]
 description=
 description=[h2]Discord[/h2]
 description=
-description=Questions, bug reports or ideas? Join the Discord:
+description=Questions, bugs ou idées ? Rejoignez le Discord :
 description=[url=https://discord.gg/QEsBya7hUA]https://discord.gg/QEsBya7hUA[/url]
 description=
-description=[h2]Credits[/h2]
-description=Food Drying is made by Corvus. All rights to the original mod belong to its author. The poster is the original Food Drying artwork with a French ribbon added.
-description=Translation files on [url=https://github.com/cyberbobjr/FoodDryingFR]GitHub[/url].
+description=[h2]Crédits[/h2]
+description=Food Drying est créé par Corvus. Tous les droits sur le mod d'origine appartiennent à son auteur. Le poster est l'illustration originale de Food Drying, avec un bandeau français ajouté.
+description=Fichiers de traduction sur [url=https://github.com/cyberbobjr/FoodDryingFR]GitHub[/url].
 tags=Build 42;Language/Translation;Multiplayer
 visibility=public
