@@ -3,7 +3,7 @@ id=3838670535
 title=Food Drying - French Translation (Traduction française)
 description=[h1]Food Drying - Traduction française[/h1]
 description=
-description=[b]Build 42.21 · Solo et multijoueur[/b]
+description=[b]Build 42.22 · Solo et multijoueur[/b]
 description=
 description=Traduction française complète de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3747396551]Food Drying [B42][/url] de Corvus et de son patch de compatibilité VFE : recettes, aliments séchés et salés, plaques et brochettes, sel et saumure, séchoir, infobulles et options de bac à sable.
 description=

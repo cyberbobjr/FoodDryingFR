@@ -1,6 +1,6 @@
 # Food Drying - Traduction française
 
-French translation of [Food Drying [B42]](https://steamcommunity.com/sharedfiles/filedetails/?id=3747396551) by Corvus, for Project Zomboid Build 42.21.
+French translation of [Food Drying [B42]](https://steamcommunity.com/sharedfiles/filedetails/?id=3747396551) by Corvus, for Project Zomboid Build 42.22.
 
 - Mod id: `batman_FoodDryingFR` (requires `FoodDrying`, loads after `FoodDrying_VFEPatch` when present)
 - Translated files: `Contents/mods/batman_FoodDryingFR/42.21/media/lua/shared/Translate/FR/*.json`
